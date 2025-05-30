@@ -17,7 +17,7 @@ A backend service for managing pet-related reminders and tasks.
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/vanshsingh2002/pet-remainder-b
 cd pet-remainder-backend
 ```
 
@@ -29,7 +29,6 @@ npm install
 3. Create a `.env` file in the root directory and configure your environment variables:
 ```env
 PORT=3000
-# Add other environment variables as needed
 ```
 
 ## Running the Application
